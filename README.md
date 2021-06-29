@@ -97,7 +97,7 @@
 
 1) 자신의 얼굴을 입력하면 어떤 그룹과 매치되는지 알려주는 서비스(구현 완료)
 
-  - (바로가기) [https://ur-debut-concept.herokuapp.com/](https://ur-debut-concept.herokuapp.com/){:target="_blank"}
+  - (바로가기) <a href='https://ur-debut-concept.herokuapp.com/' target="_blank">사이트</a>
 
   - (GitHub) https://github.com/UGA201/ur-debut-concept
 
