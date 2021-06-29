@@ -99,7 +99,7 @@
 
   - (바로가기) <a href='https://ur-debut-concept.herokuapp.com/' target="_blank">사이트</a>
 
-  - (GitHub) https://github.com/UGA201/ur-debut-concept
+  - (GitHub) [https://github.com/UGA201/ur-debut-concept](https://github.com/UGA201/ur-debut-concept){: target="_blank"}
 
 2) AI 그룹 런칭
 
